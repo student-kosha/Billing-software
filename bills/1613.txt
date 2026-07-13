@@ -1,0 +1,14 @@
+	 ELECTRO BILLING AREA 
+
+ BILL NUMBER : 1613
+ CUSTOMER NAME : kosha
+ PHONE NUMBER : 9876543210
+ ADDRESS : nagpur
+==============================================
+ PRODUCTS 	 QTY 	 PRICE
+==============================================
+ Asus Laptop		1		62990
+----------------------------------------------
+ Laptops Tax			Rs. 3149.5
+ Total Bill : 			 Rs. 66139.5
+----------------------------------------------
