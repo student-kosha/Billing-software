@@ -1,0 +1,18 @@
+	 ELECTRO BILLING AREA 
+
+ BILL NUMBER : 3241
+ CUSTOMER NAME : kosha bante
+ PHONE NUMBER : 9876543210
+ ADDRESS : Nagpur
+==============================================
+ PRODUCTS 	 QTY 	 PRICE
+==============================================
+ Hp Laptop		1		47100
+ Realme Phone		1		33999
+ Samsung LEDs		1		14750
+----------------------------------------------
+ Laptops Tax			Rs. 2355.0
+ Phones Tax			Rs. 3399.9
+ LEDs Tax			Rs. 737.5
+ Total Bill : 			 Rs. 102341.4
+----------------------------------------------

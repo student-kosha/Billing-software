@@ -53,12 +53,8 @@ Billing-Software/
 │
 ├── main.py
 ├── bills/
-│   ├── 1001.txt
-│   ├── 1002.txt
-│   └── ...
-├── screenshots/
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -123,7 +119,7 @@ python main.py
 
 ### Home Screen
 
-> Add a screenshot here.
+> [BILLING SOFTWARE](image.png)
 
 ```
 screenshots/home.png
@@ -131,7 +127,7 @@ screenshots/home.png
 
 ### Generated Bill
 
-> Add another screenshot here.
+> [Bill]({E0042D36-5935-40FA-98CA-59B4BF9122B7}.png)
 
 ```
 screenshots/bill.png
